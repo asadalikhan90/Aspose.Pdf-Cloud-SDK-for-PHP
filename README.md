@@ -7,6 +7,6 @@ This repository contains Aspose.Pdf Cloud SDK for PHP. This SDK allows you to wo
 
 + **Website:** [www.aspose.com](http://www.aspose.com)
 + **Product Home:** [Aspose.Pdf for Cloud](http://www.aspose.com/products/pdf/cloud)
-+ **Documentation:** [Aspose.Pdf for Cloud Documentation](http://www.aspose.com/docs/display/pdfcloud/Home)
++ **Documentation:** [Aspose.Pdf for Cloud Documentation](https://docs.aspose.com/display/pdfcloud/Home)
 + **Forum:** [Aspose.Pdf for Cloud Forum](http://www.aspose.com/community/forums/aspose.pdf-product-family/20/showforum.aspx)
-+ **Blog:** [Aspose.Pdf for Cloud Blog](http://www.aspose.com/blogs/aspose-products/aspose-pdf-product-family.html)
++ **Blog:** [Aspose.Pdf for Cloud Blog](https://blog.aspose.com/aspose-products/aspose-pdf-product-family.html)
